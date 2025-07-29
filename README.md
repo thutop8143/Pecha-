@@ -1,6 +1,6 @@
 # Pecha-
 A curated list of Tibetan pecha collections
-# awesome-tibetan-pecha
+# -pecha
 
 A curated list of Tibetan pecha collections: PDFs, scans, typed texts, and woodblock prints.
 
