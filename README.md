@@ -38,7 +38,6 @@ A curated list of Tibetan pecha collections: PDFs, scans, typed texts, and woodb
 - **Lotsawa House – Tibetan Translations**: https://www.lotsawahouse.org
 - **Rigpa Translation Project**: https://rigpa.org/teachings/translation-project
 - **Thupten Jinpa’s Library of Tibetan Classics**: https://idp.bl.uk/about/tibetan-manuscripts/
-- **Tsadra Foundation – Institute of Tibetan Classics**: https://www.tsadra.org/translators/institute-of-tibetan-classics
 - **Tibetan International Digital Library (TIDL)**: https://tidl.org
 - **HathiTrust – Tibetan Texts**: https://www.hathitrust.org
 - **Open Access Atlas of Nepalese Manuscripts (OAANM)**: http://www.sesan.org
