@@ -14,7 +14,7 @@ A curated list of Tibetan pecha collections: PDFs, scans, typed texts, and woodb
 - **Buddhist Digital Resource Center (BDRC)**: https://library.bdrc.io  
 - **Internet Archive**: https://archive.org/search?q=tibetan+pecha+pdf
 - **OpenPecha**: https://openpecha.org
-- **FPMT Sangha Sutra PDF**: https://shop.fpmt.org/Tibetan-Pecha-of-the-Sanghata-Sutra-PDF
+- **FPMT Sangha Sutra PDF**: [https://shop.fpmt.org/Tibetan-Pecha-of-the-Sanghata-Sutra-PDF](https://shop.fpmt.org/search.asp?keyword=pecha+&search=)
 - **HathiTrust Digital Library**: https://www.hathitrust.org
 - **University of Virginia Digital Collections**: https://archives.lib.virginia.edu/repositories/6/resources/2333
 - **Tibetan Resources via DPLA**: https://dp.la/search?q=tibetan+pecha
