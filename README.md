@@ -18,7 +18,6 @@ A curated list of Tibetan pecha collections: PDFs, scans, typed texts, and woodb
 - **University of Virginia Digital Collections**: https://archives.lib.virginia.edu/repositories/6/resources/2333
 - **Tibetan Resources via DPLA**: https://dp.la/search?q=tibetan+pecha
 - **Library of Tibetan Classics (LoTC)**: https://tibetanclassics.org
-- **Wisdom Publications: Library of Tibetan Classics**: https://wisdomexperience.org/library-of-tibetan-classics
 - **Bodhicharya Prayer Book Pecha Format**: https://www.bodhicharyana.org/product/bodhicharya-prayer-book-pecha-format/
 
 ## Scanned Images
