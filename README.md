@@ -22,7 +22,6 @@ A curated list of Tibetan pecha collections: PDFs, scans, typed texts, and woodb
 
 ## Scanned Images
 - **British Library EAP**: [https://eap.bl.uk](https://eap.bl.uk/collection/EAP1016-3-3/search?page=0)
-- **Sakya Monastery Digital Library**: https://sakyamonasterylibrary.org
 - **Library of Tibetan Works & Archives (LTWA)**: https://tibetanlibrary.org
 - **Rubin Museum Project Himalayan Art**: https://rubinmuseum.org/projecthimalayanart/glossary/pecha/
 - **Tibet & Himalayan Digital Archives (Digital Himalaya)**: http://www.digitalhimalaya.com
